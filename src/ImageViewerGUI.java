@@ -47,7 +47,7 @@ public class ImageViewerGUI extends JFrame implements ActionListener{
         this.setResizable(true);
         mainPanel();
 
-        fileChooser.setFileFilter(new FileNameExtensionFilter("JPG & GIF Images", "jpg", "gif"));
+        fileChooser.setFileFilter(new FileNameExtensionFilter("JPG & GIF Images", "jpg", "gif","jpeg"));
 
         this.setVisible(true);
 
