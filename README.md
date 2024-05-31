@@ -1,4 +1,4 @@
-<img width="1512" alt="grayscale" src="https://github.com/HastiMoradi2/Image-viewer/assets/161584562/04b566a0-d50f-4e04-a6fb-14df22710c15">In this program you can choose an image, the program is able to show and resize the image.
+In this program you can choose an image, the program is able to show and resize the image.
 it can also turn it into a black and white photo and can modify its brightness. 
 It’s a simple image viewer programmed using JavaSwing. 
 
